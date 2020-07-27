@@ -28,5 +28,5 @@ The following diagram illustrates the iterational lifecycle process of the CoE d
 
 ![Image](/Images/AzureCOE.png)
 
-[Link](./TEST.md) 
+[Link](./TRIAGE.md) 
 
