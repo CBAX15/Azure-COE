@@ -1,6 +1,6 @@
 ## Issue traiging
 
-The following diagram illustrates the overall triage process
+The following diagram illustrates the overall triage process:
 ![Image](/Images/Triaging/Triaging.png)
 
 ### Recording
