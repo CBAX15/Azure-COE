@@ -9,3 +9,5 @@ include:
   - TEST.md
   - README.md
   - OLDREADME.md
+- name: GitHub Issues to Azure DevOps
+  uses: danhellem/github-actions-issue-to-work-item@1.5
