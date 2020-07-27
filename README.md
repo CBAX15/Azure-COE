@@ -26,5 +26,5 @@ The Cloud CoE will result in the following transformational outcomes contributin
 
 The following diagram illustrates the iterational lifecycle process of the CoE deliverables.
 
-![Image](/Images/Azurecoe.png)
+![Image](/Images/AzureCOE.png)
 
