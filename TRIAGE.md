@@ -25,4 +25,4 @@ The following diagram illustrates the overall triage process:
 ![Image](/Images/Triaging/Triaging5.png)
 
 ## Overall process
-![Image](/Images/Triaging/Triagingoverall.png)
+![Image](/Images/Triaging/TriagingOverall.png)
