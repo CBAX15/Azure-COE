@@ -65,6 +65,3 @@ Phase 0 will be considered as the MVP for this engagement.
 ## Solution Blueprint
 ![Image](/Images/CITBot.png)
 
-### Actors
-The key actions relevant to this solution are listed below:
-1. User - A generic end user who uses the system to report, track and query requests. The list of users include 
