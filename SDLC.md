@@ -6,8 +6,7 @@ The contraction of “Dev” and “Ops” refers to replacing siloed Developmen
 
 The following diagram illustrates the cycle:
 
-![Image](/Images/SDLC.png)
-
+![image](./images/SDLC.png)
 
 ## Capabilities and Practices
 <table >
